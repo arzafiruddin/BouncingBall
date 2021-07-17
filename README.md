@@ -8,3 +8,18 @@ The ball is tracked at it's centroid by RGB thresholding each frame of the video
 
 <img src="https://latex.codecogs.com/svg.image?e&space;=&space;\sqrt{\frac{PE_{after}}{PE_{before}}}" title="e = \sqrt{\frac{PE_{after}}{PE_{before}}}" />
 (for a single bounce)
+
+*FIGURE 1*
+<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/balloriginalgif.gif"> <img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballanalysisgif.gif">
+
+*FIGURE 2*
+<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballkinematics.jpg">
+
+*FIGURE 3*
+<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballheight.jpg">
+
+*FIGURE 4*
+<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/balldynamics.jpg">
+
+*FIGURE 5"
+<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballcor.jpg">
