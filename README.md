@@ -29,6 +29,10 @@ The ball is tracked at it's centroid by RGB thresholding each frame of the video
 
 <img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballcor.jpg" width="557" height="118">
 
+## Dependencies
+- MATLAB Image Processing Toolkit
+- MATLBA Signal Processing Toolkit
+
 ## Acknowledgments
 - Dr. Naji Husseini, PhD (North Carolina State University - Department of Biomedical Engineering) aided in developed of `Centroid.m` program as part of BMME 201 course
 
