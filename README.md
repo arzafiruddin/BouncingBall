@@ -13,7 +13,7 @@ The ball is tracked at it's centroid by RGB thresholding each frame of the video
 
 *FIGURE 1*
 
-<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/balloriginalgif.gif" width="172" height="300"> &nbsp; <img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballanalysisgif.gif" width="360" height="300">
+<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/balloriginalgif.gif" width="224" height="390"> &nbsp; <img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballanalysisgif.gif" width="468" height="390">
 
 *FIGURE 2*
 
