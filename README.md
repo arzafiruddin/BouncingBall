@@ -8,8 +8,6 @@ The ball is tracked at it's centroid by RGB thresholding each frame of the video
 
 <img src="https://latex.codecogs.com/svg.image?e&space;=&space;\sqrt{\frac{PE_{after}}{PE_{before}}}" title="e = \sqrt{\frac{PE_{after}}{PE_{before}}}" />
 
-(for a single bounce)
-
 
 *ORIGINAL VIDEO* and *FIGURE 1*
 
