@@ -17,15 +17,15 @@ The ball is tracked at it's centroid by RGB thresholding each frame of the video
 
 *FIGURE 2*
 
-<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballkinematics.jpg" width="557" height="493">
+<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballkinematics.jpg" width="446" height="394">
 
 *FIGURE 3*
 
-<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballheight.jpg" width="557" height="493">
+<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballheight.jpg" width="446" height="394">
 
 *FIGURE 4*
 
-<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/balldynamics.jpg" width="557" height="493">
+<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/balldynamics.jpg" width="446" height="394">
 
 *FIGURE 5*
 
