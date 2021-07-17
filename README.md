@@ -31,7 +31,7 @@ The ball is tracked at it's centroid by RGB thresholding each frame of the video
 
 ## Dependencies
 - MATLAB Image Processing Toolkit
-- MATLBA Signal Processing Toolkit
+- MATLAB Signal Processing Toolkit
 
 ## Acknowledgments
 - Dr. Naji Husseini, PhD (North Carolina State University - Department of Biomedical Engineering) aided in developed of `Centroid.m` program as part of BMME 201 course
