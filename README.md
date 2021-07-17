@@ -29,4 +29,4 @@ The ball is tracked at it's centroid by RGB thresholding each frame of the video
 
 *FIGURE 5*
 
-<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballcor.jpg" width="753" height="159">
+<img src="https://github.com/arzafiruddin/BouncingBall/blob/00c76fe21227c41f35e33384d53dd3c704b1b372/readme_assets/ballcor.jpg" width="557" height="118">
