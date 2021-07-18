@@ -10,7 +10,7 @@ The height of the centroid is determined by subtracting it the minimum centroid 
 
 The average coefficient of restitution (<img src="https://latex.codecogs.com/svg.image?e" title="e" />) is printed to the MATLAB Command Window (as seen in *FIGURE 5*) using the maximum potential energy before and after each bounce as described below:
 
-<img src="https://latex.codecogs.com/svg.image?e&space;=&space;\sqrt{\frac{PE_{after}}{PE_{before}}}" title="e = \sqrt{\frac{PE_{after}}{PE_{before}}}" />
+> <img src="https://latex.codecogs.com/svg.image?e&space;=&space;\sqrt{\frac{PE_{after}}{PE_{before}}}" title="e = \sqrt{\frac{PE_{after}}{PE_{before}}}" />
 
 
 *ORIGINAL VIDEO* and *FIGURE 1*
